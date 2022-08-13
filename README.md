@@ -7,4 +7,5 @@ Includes:
 - Function Definitions
 - Classes and Objects (instances of classes)
 
-Worked on this project with 2 other fellow students at CWRU
+# Copyright
+Worked on this project with 2 other fellow students at CWRU. Git Log history is hidden to avoid Copyright infringement. 
